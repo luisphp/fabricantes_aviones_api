@@ -8,9 +8,11 @@
  
 
 ### Imagenes de POSTman con respuestas de la API
-<img src="" >
-<img src="" >
-<img src="" >
+<img src="https://github.com/luisphp/fabricantes_aviones_api/blob/master/imagenes_del_proyecto/respuesta_fabricantes_todos.PNG?raw=true" >
+<br>
+<img src="https://github.com/luisphp/fabricantes_aviones_api/blob/master/imagenes_del_proyecto/respuesta_fabricantes.PNG?raw=true" >
+<br>
+<img src="https://github.com/luisphp/fabricantes_aviones_api/blob/master/imagenes_del_proyecto/respuesta_fabricantes_todos.PNG?raw=true" >
 
 
 ## Code of Conduct
